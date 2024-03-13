@@ -4,6 +4,7 @@
 
 body {
     background: rgb(238, 238, 238);
+    font-family: "Times New Roman";
 }
 
 main img {
@@ -15,7 +16,8 @@ main img {
     margin-bottom: 20px;
 }
 
-main h1, h2 {
+main h1,
+h2 {
     text-align: center;
 }
 
