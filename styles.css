@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: rgb(238, 238, 238);
+}
+
+main img {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#img-caption {
+    margin: 0 0 -12px 0;
+    text-align: center;
+}
+
+#img-div {
+    background-color: white;
+    padding: 50px 50px 50px 50px;
+    border-radius: 10px;
+}
+
+#tribute-info {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+ul a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    color: blue;
+}
+
+a:active {
+    color: blue;
+}
