@@ -15,6 +15,10 @@ main img {
     margin-bottom: 20px;
 }
 
+main h1, h2 {
+    text-align: center;
+}
+
 #img-caption {
     margin: 0 0 -12px 0;
     text-align: center;
@@ -46,6 +50,7 @@ ul a {
 a:hover {
     color: blue;
 }
+
 
 a:active {
     color: blue;
